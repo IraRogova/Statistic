@@ -15,4 +15,6 @@ class StatisticsServiceTest {
 
         assertEquals(expected, actual);
     }
+
+
 }
